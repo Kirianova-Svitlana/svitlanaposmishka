@@ -9,11 +9,11 @@
     <link href="css/new.css" rel="stylesheet" media="screen"> 
    </head>
    <body>
-   		<div class="wrapper">
-   			<header class="header">
-   				<div class="container">
-   					<div class="row">
-   						<div class="col-sm-7">
+   	<div class="wrapper">
+   	  <header class="header">
+	  	<div class="container">
+   			<div class="row">
+   				<div class="col-sm-7">
 <!--Головний напис--><!--Головний напис-->
                     	<h1 class="text-left">Домашній xристиянський</h1>
                     	<h1 class="txt_napus2">садочок</h1>
