@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Cадочок Посмішка</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Домашній християнський садочок Посмішка"><!-- данный тег необходим для поисковой оптимизации сайта. Он сообщает поисковым машинам о содержании страницы. Одной из лучших SEO-практик является создание и применение данного тега-->
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="css/new.css" rel="stylesheet" media="screen"> 
+   </head>
+   <body>
+   		<div class="wrapper">
+   			<header class="header">
+   				<div class="container">
+   					<div class="row">
+   						<div class="col-sm-7">
+<!--Головний напис--><!--Головний напис-->
+                    	<h1 class="text-left">Домашній xристиянський</h1>
+                    	<h1 class="txt_napus2">садочок</h1>
+                    	<h1 class="txt_napus1"><strong>Посмішка</strong></h1>
+                  	</div>                  
+                  	<div class="col-sm-5">
+<!--Контакти--><!--Контакти-->
+                    	<address>
+                      		<abbr title="Phone">
+                        		<span class="glyphicon glyphicon-phone-alt" aria-hidden="true"></span>
+                      		</abbr> (093) 839-7139 -Еріка
+                    	</address>
+                    	<address>
+                      	<a href="mailto:#">erika.ucu@gmail.com</a>
+                    	</address>
+                 	 </div>
+               </div>
+              </div>            
+            </div>
+<!--nav--><!--nav--><!--nav-->          
+   			<nav>
+   				<div class="container">
+   					<div class="row">
+   						<div class="col-sm-12">
+   							<ul class="main-menu">
+	<li class="active"><a href="#">
+		<strong>Головна</strong></a></li>
+	<li><a href="#">
+		<strong>Про нас</strong></a></li>
+	<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">
+		<strong>Програми</strong>
+		<b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li ><a href="#">Підготовка до школи</a></li>
+                  <li><a href="#">Англійська та іспанська з іноземцями</a></li>
+                </ul></li>
+    <li><a href="#"><strong>Наші вчителі</strong></a></li>
+    <li><a href=""><strong>Контакти</strong></a></li>
+              				</ul>
+              			</div>
+              		</div>
+              	</div> 
+<!-- Щоб створилась кнопка замість меню
+
+        <div class="btn-group">
+  <button class="btn  btn-warning">Головна</button>
+  <button class=" btn btn-warning" data-toggle="dropdown">
+    <span class="caret"></span>
+  </button>
+  <ul class="dropdown-menu">
+    <li><a href="#">Про нас</a></li>
+     <li><a href="#">Програми</a></li>
+      <li><a href="#">Наші вчителі</a></li>
+       <li><a href="#">Контакти</a></li>
+  </ul>
+</div>  -->
+			</nav>
+
+			<div class="middle">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-8">
+							<article>
+								<img src="D:/Html_Css/new/images2/fotomain.png" 
+								class="img-responsive" alt="Responsive image">
+								<h3><strong>
+									Заняття в малих групах
+								</strong></h3>
+								<p class="lessons">
+Заняття в групі ранього розвитку побудовані в ігровій формі, з можливістю частої зміни діяльності дитини.Наші заняття будуть корисними не тільки дітям, але й батькам, які можуть взяти участь у розвиваючих заняттях разом з дітьми.</p>
+							</article>
+							<div class="container two">
+								<div class="row">
+
+									<div class="col-sm-4 ">
+										<h2 class="text-center"><strong>Чому ми?</strong></h2>
+                      <p class="text-left">
+Ми плекаємо в дітях християнські цінності.</p> 
+<p class="text-left">В нас комфортно, весело, цікаво та захоплююче дітям.</p>
+<p class="text-left"> Приємно батькам.</p>
+									</div>
+									<div class="col-sm-4 ">
+										<h2 class="text-center "><strong>Ми пропонуємо:</strong> </h2>
+                      <ul>
+<li><span class="glyphicon glyphicon-check" aria-hidden="true"></span> міні-садок</li>
+<li><span class="glyphicon glyphicon-check" aria-hidden="true"></span>група раннього розвитку дитини</li>
+ <li><span class="glyphicon glyphicon-check" aria-hidden="true"></span>дошкільна освіту</li>
+ <li><span class="glyphicon glyphicon-check" aria-hidden="true"></span>вивчення англійської мови</li>
+<li><span class="glyphicon glyphicon-check" aria-hidden="true"></span>вивчення іспанської мови</li>
+                     </ul> 
+									</div>
+                  <div class="col-sm-4 ">
+                    <img src="D:/Html_Css/new/images2/why.png">
+                   </div> 
+								</div><!--row-->
+							</div><!--container-->
+						</div><!--col-sm-8-->
+						<div class="col-sm-4">
+							<aside>
+								<div class="hero-unit">
+                  <h1>Хороший старт <br>для ваших<br>дітей</h1>
+                  <p>
+                  <a class="btn btn-warning btn-large">Дізнатись більше</a></p>
+                </div>
+                <div class="Misia">
+                  <h3 class="text-center muted"> Місія Посмішки</h3>
+                  <p>
+Показати дітям Божу любов через Біблійні розповіді. 
+Створити середовище любові, де діти почуватимуться щасливо і зможуть зростати.
+Підготувати дітей як до школи так і до християнського дорослого життя. </p>
+                </div>
+                <div class="navchannia">
+                  <h3 class="text-center muted">Що навчають у «Посмішці»</h3>
+                  <p>
+Дітей готують до школи навчаючи їх букв, цифр та хорошого ставлення до ровесників. 
+Щоразу діти вивчатимуть Біблійну історію.
+Також значну частину уроку займає навчання англійської мови, як частина підготовки дітей до школи та майбутньої професії.</p>
+                </div>
+                <div class="dly_kogo">
+                  <h3 class="text-center muted">Для кого створена «Посмішка»?</h3>
+                  <p>
+Для дітей 2-6 років у Львові та Винниках.
+Діти навчаються у малих групах, з індивідуальним підходом, де їх приймають та заохочують.</p>
+                </div>
+							</aside>
+						</div><!--col-sm-4-->
+
+					</div><!--row-->
+					
+				</div><!--container-->
+			</div><!-- .middle-->
+		</div><!-- .wrapper -->
+		<footer class="footer">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4">
+						<address><strong>Львів</strong>
+						<br>Пл. Григоренка 5/17
+						<br>9.30-15.30
+						</address>
+					</div><!--col-sm-4-->
+					<div class="col-sm-4">
+						<address>
+						<strong>(093)8397139</strong>
+						<br><a href="mailto:#">erika.ucu@gmail.com</a>
+						</address>
+					</div><!--col-sm-4-->
+					<div class="col-sm-4">
+						<address>
+						<strong>Винники</strong>
+						<br>вул. Винна гора 14/3
+						<br>10.00-18.00
+						</address>
+					</div><!--col-sm-4-->
+				</div><!--row-->
+			</div><!--container-->
+		</footer><!-- .footer -->
+  </div>
+   </body>
+</html>
